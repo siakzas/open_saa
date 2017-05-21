@@ -21,6 +21,7 @@
 	push
 	pushj2
 	pusj.siak
+	pull.lee
 </u1>
 
 </body>
